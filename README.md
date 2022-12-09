@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OmidAfzali02
 - 👀 I’m interested in Python programming and AI
-- 🌱 I’m currently learning to Creat AI-based programs
+- 🌱 I’m currently learning different aspects of AI 
 - 💞️ I’m looking to collaborate on Programming and AI projects
 - 📫 How to reach me : dev.omid02@gmail.com
-- Another Changed
